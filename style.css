@@ -1,0 +1,29 @@
+h1{
+   text-align: center; 
+   font-family: 'Inter Tight', sans-serif;
+   font-family: 'Rubik Dirt', cursive;
+   text-decoration: underline;
+}
+p{
+    
+    text-align: center;
+    font-size: 22px;
+    padding: 10px 250px;
+}
+.Ethiopia{
+    text-align: center;
+}
+span{
+    display: block;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+.red{
+    background-color: red;
+}
